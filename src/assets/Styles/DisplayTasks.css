@@ -1,0 +1,25 @@
+.DisplayDiv{
+    width:100%;
+    /* text-align: center; */
+    display: flex;
+}
+
+.Btn{
+    background-color: lightblue;
+    border-radius: 5px;
+    border: 1px solid lightblue;
+}
+
+.leftDiv{
+    width:50%;
+    float:left;
+    box-sizing:border-box;
+}
+.righttDiv{
+    width:50%;
+    float:right;
+    box-sizing:border-box;
+}
+ul{
+    list-style-type:none;
+}
